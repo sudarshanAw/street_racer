@@ -1,5 +1,5 @@
-import 'dart:ui';
 import 'package:flame/components.dart';
+import 'package:flutter/material.dart';
 import '../../utils/constants.dart';
 
 /// Heads-up display: score, lives, level progress bar.
