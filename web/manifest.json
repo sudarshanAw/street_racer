@@ -1,0 +1,10 @@
+{
+  "name": "Street Racer",
+  "short_name": "StreetRacer",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0D1B2A",
+  "theme_color": "#FF6D00",
+  "description": "2D Car Racing Game",
+  "orientation": "portrait"
+}
