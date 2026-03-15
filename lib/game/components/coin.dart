@@ -1,7 +1,7 @@
-import 'dart:ui';
 import 'dart:math' as math;
 import 'package:flame/collisions.dart';
 import 'package:flame/components.dart';
+import 'package:flutter/material.dart';
 import '../../utils/constants.dart';
 
 /// A spinning coin the player can collect for bonus score.
